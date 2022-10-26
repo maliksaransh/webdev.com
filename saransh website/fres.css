@@ -1,0 +1,66 @@
+@media only screen and (max-width: 500px){
+    
+    .black{
+        background-color: skyblue;
+        width:400px ;
+        /* height: 60px; */
+        justify-content: center;
+    } 
+    
+    
+    
+    .black a{
+        /* margin-right: 450px; */
+       /* margin-right: 350px; */
+       margin: 5px 2px 2px 1px;
+       
+    }
+
+     .main h1{
+        margin-left: 40px;
+        width: 250px;
+        /* height: 175.2px; */
+    font-size: 50px;
+
+     }
+.main p {
+    font-size: medium;
+    width: 250px;
+}
+.video h1{
+    /* margin-left: 40px; */
+    width: 250px;
+    /* height: 175.2px; */
+font-size: 25px;
+background-size: cover;
+
+
+}
+
+.pink{
+    /* width: 300px; */
+    display: flex;
+    flex-direction: column;
+    /* margin: 0px 300px ;
+*/
+}
+.kuch{
+    margin-right: 0px;
+
+
+}
+.kuchorr{
+    margin-right: 0px; 
+}
+.orrkuch{
+    margin-right: 0px;
+}
+.fro{
+    width: 400px;
+    height: 1400px;
+}
+.bac{
+    margin-right: 146px;
+}
+
+}

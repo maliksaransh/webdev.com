@@ -1,0 +1,49 @@
+@media only screen and (max-width: 500px)
+{
+    .black{
+        background-color: skyblue;
+        width:400px ;
+        /* height: 60px; */
+        justify-content: center;
+    } 
+.write h1{
+    margin-left: 40px;
+    width: 250px;
+    /* height: 175.2px; */
+font-size: 50px;
+}
+   
+    
+    .red{
+        font-size: medium;
+        width: 250px;
+        /* height: 100px; */
+    }
+    .blue{
+        font-size: medium;
+        width: 250px;
+        /* height: 92px; */
+    }
+    .black a{
+        /* margin-right: 450px; */
+       /* margin-right: 350px; */
+       margin: 5px 2px 2px 1px;
+       
+    }
+    .hul{
+        width: 250px;
+        /* height: 68.8px; */
+        font-size: 30px ;
+    }
+    .list{
+        width: 250px;
+        /* height: 393.38; */
+        margin-right: 300px;
+    }
+   .con{
+    width: 400px;
+    height: 1200px;
+   }
+    
+    
+}
